@@ -51,6 +51,7 @@ Full methodology, evidence, impact analysis, and remediation guidance for
 each finding are in the report.
 
 ## Contents
+Download the full report:  Mediroza_General_Hospital_Penetration_Test_Report.docx
 
 ```
 .
